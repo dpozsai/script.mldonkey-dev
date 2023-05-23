@@ -2,3 +2,5 @@
 /.pylintrc
 /.venv
 /.vscode
+*.pyc
+*.pyo

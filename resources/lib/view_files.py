@@ -877,7 +877,7 @@ class GUILibrary(pyxbmct.AddonDialogWindow):
         """
         kbd = xbmcgui.Dialog().input(getLS(30043), self.list_destination.getSelectedItem(
         ).getProperty('FileName'), type=xbmcgui.INPUT_ALPHANUM)
-        if kbd is not "":
+        if kbd != "":
             self.list_destination.getSelectedItem().setLabel(kbd)
             self.list_destination.getSelectedItem().setProperty('FileName', kbd)
 

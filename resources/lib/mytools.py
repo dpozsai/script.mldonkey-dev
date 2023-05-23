@@ -22,7 +22,7 @@ import web_pdb
 
 
 __addon__ = sys.modules["__main__"].__addon__
-__addondir__ = xbmc.translatePath(__addon__.getAddonInfo('profile'))
+__addondir__ = xbmcvfs.translatePath(__addon__.getAddonInfo('profile'))
 __cwd__ = sys.modules["__main__"].__cwd__
 __subtitles__ = ['.srt']
 
