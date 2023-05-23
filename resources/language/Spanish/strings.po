@@ -1,0 +1,419 @@
+# Kodi Media Center language file
+# Addon Name: Check Download and MLdonkey
+# Addon id: script.mldonkey
+# Addon Provider: Diego del Pozo
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2020-07-11 02:54+0200\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/xbmc-addons/"
+"language/es/)\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../../lib\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgctxt "#30000"
+msgid "Check Download and MLDonkey"
+msgstr "Check Download and MLDonkey"
+
+msgctxt "#30001"
+msgid "Downloaded"
+msgstr "Descargado"
+
+msgctxt "#30002"
+msgid "Manage Exceptions"
+msgstr "Excepciones"
+
+msgctxt "#30003"
+msgid "Currently Downloading"
+msgstr "En progreso"
+
+msgctxt "#30004"
+msgid "Move to Library"
+msgstr "Mover a la Biblioteca"
+
+msgctxt "#30005"
+msgid "Add to Exceptions"
+msgstr "Añadir a Excepciones"
+
+msgctxt "#30006"
+msgid "Remove from Disk"
+msgstr "Eliminar del disco"
+
+msgctxt "#30007"
+msgid "Accept"
+msgstr "Aceptar"
+
+msgctxt "#30008"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "#30009"
+msgid "Back"
+msgstr "Atrás"
+
+# empty strings 30009
+msgctxt "#30010"
+msgid "Add to exceptions file"
+msgstr "Añadir al fichero de excepciones"
+
+msgctxt "#30011"
+msgid "Do you want to stop showing the selected files"
+msgstr "¿Quieres dejar de ver los ficheros seleccionados"
+
+msgctxt "#30012"
+msgid "in the downloaded view?"
+msgstr "en la vista de descargas?"
+
+msgctxt "#30013"
+msgid "Source"
+msgstr "Origen"
+
+msgctxt "#30014"
+msgid "Filename"
+msgstr "Fichero"
+
+# empty strings from id 30013 to 30014
+msgctxt "#30015"
+msgid "Folder"
+msgstr "Carpeta"
+
+msgctxt "#30016"
+msgid "Do you want to create a new folder?"
+msgstr "¿Quieres crear una nueva carpeta?"
+
+msgctxt "#30017"
+msgid "     E.g. for a new TV Series"
+msgstr "p.ej. para una nueva serie"
+
+msgctxt "#30018"
+msgid "Enter folder name"
+msgstr "Introduzca el nombre de la carpeta"
+
+msgctxt "#30019"
+msgid "Do you want to create this folder?"
+msgstr "¿Quieres crear esta carpeta?"
+
+msgctxt "#30020"
+msgid "Writing to file"
+msgstr "Escribiendo en el fichero"
+
+msgctxt "#30021"
+msgid "Adding"
+msgstr "Añadiendo"
+
+msgctxt "#30022"
+msgid "Edit"
+msgstr "Editar"
+
+# empty strings from id 30022 to 30024
+msgctxt "#30025"
+msgid "List files"
+msgstr "Listar ficheros"
+
+msgctxt "#30026"
+msgid "Reading..."
+msgstr "Leyendo…"
+
+msgctxt "#30027"
+msgid "Analyzing..."
+msgstr "Analizando…"
+
+# empty strings from id 30028
+msgctxt "#30029"
+msgid "Manage exceptions of files and directories"
+msgstr "Gestionar excepciones de ficheros y carpetas"
+
+# empty strings from id 30028 to 30029
+msgctxt "#30030"
+msgid "Files"
+msgstr "Ficheros"
+
+msgctxt "#30031"
+msgid "Directories"
+msgstr "Carpetas"
+
+msgctxt "#30032"
+msgid "Extensions"
+msgstr "Extensiones"
+
+msgctxt "#30033"
+msgid "Add from disk"
+msgstr "Añadir desde el disco"
+
+msgctxt "#30034"
+msgid "Enable/Disable"
+msgstr "(Des)habilitar"
+
+msgctxt "#30035"
+msgid "Remove"
+msgstr "Quitar"
+
+msgctxt "#30036"
+msgid "Add extension"
+msgstr "Añadir una extensión"
+
+msgctxt "#30037"
+msgid "These files will not appear in the downloaded window"
+msgstr "Estos ficheros no aparecerán en la ventana de descargas"
+
+msgctxt "#30038"
+msgid "These directories will not appear in the downloaded window"
+msgstr "Estas carpetas no aparecerán en la ventana de descargas"
+
+msgctxt "#30039"
+msgid "Files matching these patterns will not appear in the downloaded window"
+msgstr ""
+"Los ficheros que concuerden con estas cadenas no aparecerán en la vista de "
+"descargas."
+
+# empty strings from id 30037 to 30029
+msgctxt "#30040"
+msgid "Select a directory"
+msgstr "Seleccione una carpeta"
+
+msgctxt "#30041"
+msgid "Select a file"
+msgstr "Seleccione un fichero"
+
+msgctxt "#30042"
+msgid "Introduce an extension to filter out"
+msgstr "Introduce la cadena de filtrado"
+
+msgctxt "#30043"
+msgid "Edit file name"
+msgstr "Editar el nombre del fichero"
+
+# empty string id 30044
+msgctxt "#30045"
+msgid "Copying into Library"
+msgstr "Copiando a la biblioteca"
+
+msgctxt "#30046"
+msgid "Moving into Library"
+msgstr "Moviendo a la biblioteca"
+
+msgctxt "#30047"
+msgid "Hard linking into Library"
+msgstr "Enlazando en la biblioteca"
+
+msgctxt "#30048"
+msgid "Symlinking into Library"
+msgstr "Haciendo enlaces simbólicos en la biblioteca"
+
+msgctxt "#30049"
+msgid "Performing operation on file:"
+msgstr "Realizando la siguiente operación sobre el fichero:"
+
+msgctxt "#30050"
+msgid "Error"
+msgstr "Error"
+
+msgctxt "#30051"
+msgid "No file selected"
+msgstr "No ha seleccionado ningún fichero"
+
+msgctxt "#30052"
+msgid "Operation failed:"
+msgstr "Operación fallida:"
+
+msgctxt "#30053"
+msgid "Unable to create dir: "
+msgstr "No se ha podido crear la carpeta: "
+
+msgctxt "#30054"
+msgid "Nothing is selected"
+msgstr "No ha seleccionado nada."
+
+# empty string id 30054
+msgctxt "#30055"
+msgid "Warning"
+msgstr "Atención"
+
+msgctxt "#30056"
+msgid "Do you want to apply this change for future similar entries?"
+msgstr "¿Quieres aplicar este cambio para nombres de ficheros similares?"
+
+msgctxt "#30057"
+msgid "Do you want to rescan current blocked entries?"
+msgstr "¿Quieres escanear los ficheros existentes de nuevo?"
+
+msgctxt "#30058"
+msgid "More than one entry selected; editing first one"
+msgstr "Hay más de una entrada seleccionada. Se editará la primera."
+
+msgctxt "#30060"
+msgid "Downloaded Files"
+msgstr "Ficheros descargados"
+
+msgctxt "#30061"
+msgid "Patterns"
+msgstr "Patrones"
+
+msgctxt "#30062"
+msgid "Edit Patterns"
+msgstr "Editar patrones"
+
+msgctxt "#30063"
+msgid "TV detection"
+msgstr "¿Es serie TV?"
+
+msgctxt "#30064"
+msgid "TV extract"
+msgstr "Extracción de TV"
+
+msgctxt "#30065"
+msgid "Clean"
+msgstr "Limpiar"
+
+msgctxt "#30066"
+msgid "Add pattern"
+msgstr "Añadir patrón"
+
+msgctxt "#30067"
+msgid "Regex patterns used to detect if a file is part of a TV series"
+msgstr ""
+"Expresiones regulares para detectar si un archivo es parte de una serie de TV"
+
+msgctxt "#30068"
+msgid ""
+"Regex patterns used to separate TV series title, season, episode and chapter "
+"title"
+msgstr ""
+"Expresiones regulares para separar el archivo en serie de TV, temporada, "
+"episodio y título del capítulo"
+
+msgctxt "#30069"
+msgid "Regex patterns used to remove unwanted comments of filename"
+msgstr ""
+"Expresiones regulares para retirar comentarios no deseados del nombre del "
+"archivo"
+
+# empty string id 30061 - 69
+msgctxt "#30070"
+msgid "Edit Files & present them in library folders"
+msgstr ""
+"Cambia el nombre y los presenta en las carpetas de la biblioteca de medios."
+
+msgctxt "#30071"
+msgid "Add regex pattern"
+msgstr "Añadir patrón"
+
+# empty string id 30071 - 79
+msgctxt "#30080"
+msgid "MLdonkey downloaded files"
+msgstr "Ficheros descargados por MLDonkey"
+
+# Shorten for priority
+msgctxt "#30081"
+msgid "Pr."
+msgstr "Pr."
+
+# Shorten for complete
+msgctxt "#30082"
+msgid "Compl."
+msgstr "Compl."
+
+# Shorten for downloaded
+msgctxt "#30083"
+msgid "Down."
+msgstr "Desc."
+
+msgctxt "#30084"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "#30085"
+msgid "Since:Last"
+msgstr "Desde:Últi"
+
+msgctxt "#30086"
+msgid "Rate"
+msgstr "Vel."
+
+# Free up to 30098
+msgctxt "#30099"
+msgid "Exit"
+msgstr "Salir"
+
+# Settings comenzamos en id 30500
+msgctxt "#30500"
+msgid "General"
+msgstr "Principal"
+
+msgctxt "#30501"
+msgid "Download folder"
+msgstr "Carpeta de descargas"
+
+msgctxt "#30502"
+msgid "Movies Folder"
+msgstr "Carpeta de Películas"
+
+msgctxt "#30503"
+msgid "TV Folder"
+msgstr "Carpeta de TV"
+
+# Free from 30504 to 30509
+msgctxt "#30510"
+msgid "File operation"
+msgstr "Operación sobre los ficheros"
+
+msgctxt "#30511"
+msgid "copy"
+msgstr "copiar"
+
+msgctxt "#30512"
+msgid "move"
+msgstr "mover"
+
+msgctxt "#30513"
+msgid "hardlink"
+msgstr ""
+
+msgctxt "#30514"
+msgid "symlink"
+msgstr ""
+
+msgctxt "#30515"
+msgid "test"
+msgstr ""
+
+msgctxt "#30516"
+msgid "Link Filter"
+msgstr "Filtrar links"
+
+# Free from 30516 to 30520
+msgctxt "#30520"
+msgid "MLDonkey"
+msgstr ""
+
+msgctxt "#30521"
+msgid "Server IP address"
+msgstr ""
+"Dirección IP del\n"
+" servidor"
+
+msgctxt "#30522"
+msgid "Telnet listening port"
+msgstr "Puerto Telnet"
+
+msgctxt "#30523"
+msgid "Authentication"
+msgstr "¿Autenticación necesaria?"
+
+msgctxt "#30524"
+msgid "Username"
+msgstr "Usuario"
+
+msgctxt "#30525"
+msgid "Password"
+msgstr "Contraseña"

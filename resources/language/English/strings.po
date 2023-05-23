@@ -1,0 +1,405 @@
+# Kodi Media Center language file
+# Addon Name: Check Download and MLdonkey
+# Addon id: script.mldonkey
+# Addon Provider: Diego del Pozo
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Check Download and MLDonkey"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Downloaded"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Manage Exceptions"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Currently Downloading"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Move to Library"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Add to Exceptions"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Remove from Disk"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Accept"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Back"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Add to exceptions file"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Do you want to stop showing the selected files"
+msgstr ""
+
+msgctxt "#30012"
+msgid "in the downloaded view?"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Source"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Filename"
+msgstr ""
+
+
+msgctxt "#30015"
+msgid "Folder"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Do you want to create a new folder?"
+msgstr ""
+
+msgctxt "#30017"
+msgid "     E.g. for a new TV Series"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Enter folder name"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Do you want to create this folder?"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Writing to file"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Adding"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Edit"
+msgstr ""
+
+#Free
+
+msgctxt "#30025"
+msgid "List files"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Reading..."
+msgstr ""
+
+msgctxt "#30027"
+msgid "Analyzing..."
+msgstr ""
+
+# empty strings from id 30028
+
+msgctxt "#30029"
+msgid "Manage exceptions of files and directories"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Files"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Directories"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Extensions"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Add from disk"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Enable/Disable"
+msgstr "Enable/Dis."
+
+msgctxt "#30035"
+msgid "Remove"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Add extension"
+msgstr ""
+
+msgctxt "#30037"
+msgid "These files will not appear in the downloaded window"
+msgstr ""
+
+msgctxt "#30038"
+msgid "These directories will not appear in the downloaded window"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Files matching these patterns will not appear in the downloaded window"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Select a directory"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Select a file"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Introduce an extension to filter out"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Edit file name"
+msgstr ""
+
+# empty string id 30044
+
+msgctxt "#30045"
+msgid "Copying into Library"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Moving into Library"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Hard linking into Library"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Symlinking into Library"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Performing operation on file:"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Error"
+msgstr ""
+
+msgctxt "#30051"
+msgid "No file selected"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Operation failed:"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Unable to create dir: "
+msgstr ""
+
+msgctxt "#30054"
+msgid "Nothing is selected"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Warning"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Do you want to apply this change for future similar entries?"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Do you want to rescan current blocked entries?"
+msgstr ""
+
+msgctxt "#30058"
+msgid "More than one entry selected; editing first one"
+msgstr ""
+
+# empty string id 30059
+ 
+msgctxt "#30060"
+msgid "Downloaded Files"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Patterns"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Edit Patterns"
+msgstr ""
+
+msgctxt "#30063"
+msgid "TV detection"
+msgstr ""
+
+msgctxt "#30064"
+msgid "TV extract"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Clean"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Add pattern"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Regex patterns used to detect if a file is part of a TV series"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Regex patterns used to separate TV series title, season, episode and chapter title"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Regex patterns used to remove unwanted comments of filename"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Edit Files & present them in library folders"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Add regex pattern"
+msgstr ""
+
+msgctxt "#30080"
+msgid "MLdonkey downloaded files"
+msgstr ""
+
+#Shorten for priority
+msgctxt "#30081"
+msgid "Pr."
+msgstr ""
+
+#Shorten for complete
+msgctxt "#30082"
+msgid "Compl."
+msgstr ""
+
+#Shorten for downloaded
+msgctxt "#30083"
+msgid "Down."
+msgstr ""
+
+msgctxt "#30084"
+msgid "Total"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Since:Last"
+msgstr ""
+
+msgctxt "#30086"
+msgid "Rate"
+msgstr ""
+# Free up to 30098
+
+msgctxt "#30099"
+msgid "Exit"
+msgstr ""
+
+#Settings starting from id 30500
+
+msgctxt "#30500"
+msgid "General"
+msgstr ""
+
+msgctxt "#30501"
+msgid "Download folder"
+msgstr ""
+
+msgctxt "#30502"
+msgid "Movies Folder"
+msgstr ""
+
+msgctxt "#30503"
+msgid "TV Folder"
+msgstr ""
+
+#Free from 30504 to 30509
+
+msgctxt "#30510"
+msgid "File operation"
+msgstr ""
+
+msgctxt "#30511"
+msgid "copy"
+msgstr ""
+
+msgctxt "#30512"
+msgid "move"
+msgstr ""
+
+msgctxt "#30513"
+msgid "hardlink"
+msgstr ""
+
+msgctxt "#30514"
+msgid "symlink"
+msgstr ""
+
+msgctxt "#30515"
+msgid "test"
+msgstr ""
+
+
+msgctxt "#30516"
+msgid "Link Filter"
+msgstr ""
+
+#Free from 30516 to 30520
+
+msgctxt "#30520"
+msgid "MLDonkey"
+msgstr ""
+
+msgctxt "#30521"
+msgid "Server IP address"
+msgstr ""
+
+msgctxt "#30522"
+msgid "Telnet listening port"
+msgstr ""
+
+msgctxt "#30523"
+msgid "Authentication"
+msgstr ""
+
+msgctxt "#30524"
+msgid "Username"
+msgstr ""
+
+msgctxt "#30525"
+msgid "Password"
+msgstr ""
